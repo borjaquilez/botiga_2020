@@ -1,0 +1,8 @@
+@import "lesshat";
+@import url(https://fonts.googleapis.com/css?family=Trade+Winds&display=swap);
+
+html{
+    background: url(../img/error_1_b.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Trade Winds';
+}
